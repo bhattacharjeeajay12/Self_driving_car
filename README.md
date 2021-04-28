@@ -4,4 +4,4 @@ The problem statement is to build a Self-Driving car. For learning and for the s
 
 In the dataset sully has provided dataset containg 45000 images with steering wheel angles.
 
-After training the model, users can use setup.py to see the demonstration of Self-Driving car.
+After training the model, users can use Run_Self_driving_car.py to see the demonstration of Self-Driving car.
